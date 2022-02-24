@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Pie on NeedIt table by u_request_type created by Beth Anglin: 2022-02-23 19:53:12">f67f7e6edb310110c0ecb7e8f496197b</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2022-02-24 03:54:21</sys_created_on>
+        <sys_id>7e7f7e6edb310110c0ecb7e8f496197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f67f7e6edb310110c0ecb7e8f496197b</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_7e7f7e6edb310110c0ecb7e8f496197b</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2022-02-24 03:54:21</sys_updated_on>
+        <user_id display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</user_id>
+    </sys_report_users_groups>
+</record_update>
